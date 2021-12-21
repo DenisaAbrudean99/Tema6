@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oSAIwxG8JEjc8Cf+qzFrwO/piykmHvHFSpSN04Nh0CwyoI6B8ReBeBX7S6fGZvBUz8GlpZX56fY0Ae+xzPZEHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer PC\\Desktop\\An I IS\\An IV\\PSSC\\6\\Tema6PSSC\\Tema6PSSC.Dto\\Tema6PSSC.Dto.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Acer PC\\Desktop\\An I IS\\An IV\\PSSC\\6\\Tema6PSSC\\Tema6PSSC.Dto\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
+}

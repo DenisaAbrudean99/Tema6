@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <InternalsVisibleTo Include="Tema6PSSC.Data" />
+    <PackageReference Include="CSharp.Choices" Version="2.0.1" />
+    <PackageReference Include="LanguageExt.Core" Version="3.4.15" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.0" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tema6PSSC.Dto\Tema6PSSC.Dto.csproj" />
+    <ProjectReference Include="..\Tema6PSSC.Events\Tema6PSSC.Events.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,24 @@
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Events\bin\Debug\net5.0\Tema6PSSC.Events.deps.json
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Events\bin\Debug\net5.0\Tema6PSSC.Events.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Events\bin\Debug\net5.0\ref\Tema6PSSC.Events.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Events\bin\Debug\net5.0\Tema6PSSC.Events.pdb
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Events\obj\Debug\net5.0\Tema6PSSC.Events.csproj.AssemblyReference.cache
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Events\obj\Debug\net5.0\Tema6PSSC.Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Events\obj\Debug\net5.0\Tema6PSSC.Events.AssemblyInfoInputs.cache
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Events\obj\Debug\net5.0\Tema6PSSC.Events.AssemblyInfo.cs
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Events\obj\Debug\net5.0\Tema6PSSC.Events.csproj.CoreCompileInputs.cache
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Events\obj\Debug\net5.0\Tema6PSSC.Events.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Events\obj\Debug\net5.0\ref\Tema6PSSC.Events.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Events\obj\Debug\net5.0\Tema6PSSC.Events.pdb
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Events\bin\Debug\net5.0\Tema6PSSC.Events.deps.json
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Events\bin\Debug\net5.0\Tema6PSSC.Events.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Events\bin\Debug\net5.0\ref\Tema6PSSC.Events.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Events\bin\Debug\net5.0\Tema6PSSC.Events.pdb
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Events\obj\Debug\net5.0\Tema6PSSC.Events.csproj.AssemblyReference.cache
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Events\obj\Debug\net5.0\Tema6PSSC.Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Events\obj\Debug\net5.0\Tema6PSSC.Events.AssemblyInfoInputs.cache
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Events\obj\Debug\net5.0\Tema6PSSC.Events.AssemblyInfo.cs
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Events\obj\Debug\net5.0\Tema6PSSC.Events.csproj.CoreCompileInputs.cache
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Events\obj\Debug\net5.0\Tema6PSSC.Events.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Events\obj\Debug\net5.0\ref\Tema6PSSC.Events.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Events\obj\Debug\net5.0\Tema6PSSC.Events.pdb

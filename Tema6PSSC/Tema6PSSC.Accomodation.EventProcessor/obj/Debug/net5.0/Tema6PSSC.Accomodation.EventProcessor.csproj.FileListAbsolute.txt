@@ -1,0 +1,204 @@
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.exe
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.deps.json
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.runtimeconfig.json
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.runtimeconfig.dev.json
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\ref\Tema6PSSC.Accomodation.EventProcessor.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.pdb
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Azure.Core.Amqp.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Azure.Messaging.ServiceBus.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\CloudNative.CloudEvents.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\CloudNative.CloudEvents.SystemTextJson.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\CSharp.Choices.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\CSharp.Choices.Attributes.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\LanguageExt.Core.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Azure.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Hosting.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\System.Diagnostics.EventLog.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.Messages.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Domeniu.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Dto.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Events.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Events.ServiceBus.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Domeniu.pdb
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Events.ServiceBus.pdb
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Dto.pdb
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Events.pdb
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.csproj.AssemblyReference.cache
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.AssemblyInfoInputs.cache
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.AssemblyInfo.cs
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.csproj.CoreCompileInputs.cache
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.csproj.CopyComplete
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\ref\Tema6PSSC.Accomodation.EventProcessor.dll
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.pdb
+C:\Users\corin\OneDrive\Desktop\FACULTATE AN 4\PSSC\TEME\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.genruntimeconfig.cache
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.exe
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.deps.json
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.runtimeconfig.json
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.runtimeconfig.dev.json
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\ref\Tema6PSSC.Accomodation.EventProcessor.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.pdb
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Azure.Core.Amqp.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Azure.Messaging.ServiceBus.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\CloudNative.CloudEvents.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\CloudNative.CloudEvents.SystemTextJson.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\CSharp.Choices.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\CSharp.Choices.Attributes.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\LanguageExt.Core.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Azure.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\System.Diagnostics.EventLog.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Domeniu.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Dto.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Events.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Events.ServiceBus.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Domeniu.pdb
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Events.ServiceBus.pdb
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Dto.pdb
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\bin\Debug\net5.0\Tema6PSSC.Events.pdb
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.csproj.AssemblyReference.cache
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.AssemblyInfoInputs.cache
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.AssemblyInfo.cs
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.csproj.CopyComplete
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\ref\Tema6PSSC.Accomodation.EventProcessor.dll
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.pdb
+C:\Users\Acer PC\Desktop\An I IS\An IV\PSSC\6\Tema6PSSC\Tema6PSSC.Accomodation.EventProcessor\obj\Debug\net5.0\Tema6PSSC.Accomodation.EventProcessor.genruntimeconfig.cache
